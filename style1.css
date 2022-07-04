@@ -1,0 +1,44 @@
+h2{ 
+    color: rgb(242, 10, 88);
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(181, 233, 181);
+}
+label{
+    color: rgb(91, 27, 13);
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Times New Roman';
+    text-align: right;
+
+}
+img{
+    width: 25%;
+    height: 10%;
+}
+h2{
+    color: black;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+h1{
+    color: brown;
+    font-size: 50px;
+    font-family: 'Lucida Sans';
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    text-align: right;
+
+    
+}
+h3{
+    text-align: right;
+   
+}

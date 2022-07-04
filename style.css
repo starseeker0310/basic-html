@@ -1,0 +1,19 @@
+h1{ 
+    color: rgb(221, 255, 0);
+    font-size: 150px;
+    font-style: italic;
+    text-align: center;
+}
+p{
+    color: azure;
+    font-size: 30px;
+    font-style: italic;
+    text-align: left;
+}
+body{
+    background-color: black;
+}
+img{
+    height: 25%;
+    width: 50%;
+}
